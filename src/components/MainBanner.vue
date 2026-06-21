@@ -29,7 +29,7 @@
           <div class="relative w-full max-w-xl md:max-w-none h-[240px] sm:h-[320px] md:h-full rounded-2xl md:rounded-none overflow-hidden shadow-sm md:shadow-none">
             
             <img 
-              src="../assets/hero-banner.png" 
+              src="../assets/hero-banner.jpg" 
               alt="Temukan Aktivitas Seru Pepepipi bersama Anak" 
               class="w-full h-full object-cover object-center md:object-right"
             />

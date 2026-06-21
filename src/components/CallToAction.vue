@@ -5,7 +5,7 @@
 
     <div class="cta-inner">
       <div class="cta-text-block">
-        <p class="cta-eyebrow">Masih bingung mau pilih apa?</p>
+        <p class="cta-eyebrow">Mau Custom atau Masih bingung mau pilih apa?</p>
         <h2 class="cta-heading">Yuk, ngobrol dulu sama kami 🤍</h2>
         <p class="cta-subtext">
           Kami bantu kamu pilih hampers atau produk aktifitas yang pas — tinggal cerita aja anaknya umur berapa dan buat acara apa.

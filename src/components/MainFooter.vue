@@ -9,7 +9,7 @@
           <!-- Memakai utility class .brand-logo yang sudah Anda buat, diperbesar ke text-4xl -->
           <h2 class="brand-logo text-4xl tracking-tight">pepepipi</h2>
           <p class="text-main-muted text-sm max-w-xs leading-relaxed">
-            Menyediakan beragam ide aktivitas interaktif anak dan pilihan paket hampers favorit yang dikurasi khusus untuk kebahagiaan keluarga Anda.
+            Teman belanja Hampers dan Alat tulis anak. Dengan produk dan hampers pilihan terbaik demi kebahagiaan dan tumbuh kembang keluarga Anda.
           </p>
           
           <!-- Ikon murni berwarna asli tanpa teks label -->
@@ -35,15 +35,15 @@
 
         <!-- KOLOM 2: TENTANG KAMI -->
         <div class="flex flex-col space-y-4">
-          <h3 class="text-xs font-bold uppercase tracking-widest text-main-dark opacity-80">Tentang Kami</h3>
+          <h3 class="text-xs font-bold uppercase tracking-widest text-main-dark opacity-80"><br>Tentang Kami</h3>
           <p class="text-main-muted text-sm leading-relaxed">
-            Pepepipi hadir untuk membantu Ayah & Bunda menciptakan momen seru, interaktif, dan edukatif bersama si kecil. Kami mengkurasi paket aktivitas dan hampers pilihan terbaik demi kebahagiaan dan tumbuh kembang keluarga Anda.
+            Sejak tahun 2019, Pepepipi hadir dengan berbagai alat tulis anak dan hampers pilihan.<br>Kami ingin menjadi teman yang terbaik bagi pada ibu dalam proses tumbuh kembang anak tercinta. Menciptakan momen seru, interaktif, dan edukatif bersama si kecil. 
           </p>
         </div>
 
         <!-- KOLOM 3: KONTAK KAMI -->
         <div class="flex flex-col space-y-4">
-          <h3 class="text-xs font-bold uppercase tracking-widest text-main-dark opacity-80">Kontak Kami</h3>
+          <h3 class="text-xs font-bold uppercase tracking-widest text-main-dark opacity-80"><br>Kontak Kami</h3>
           <ul class="text-main-muted text-sm space-y-3">
             <li class="flex items-start gap-3">
               <span class="font-bold text-main-dark min-w-[80px]">Jam Buka:</span>
@@ -65,8 +65,8 @@
       <div class="border-t border-stone-200/60 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
         <p class="text-xs text-main-muted">&copy; 2019 pepepipi. All rights reserved.</p>
         <div class="flex gap-6 text-xs text-main-muted">
-          <a href="#" class="hover:text-main-dark transition-colors">Privacy Policy</a>
-          <a href="#" class="hover:text-main-dark transition-colors">Terms of Service</a>
+          <a href="javascript:void(0)" class="hover:text-main-dark transition-colors">Privacy Policy</a>
+          <a href="javascript:void(0)" class="hover:text-main-dark transition-colors">Terms of Service</a>
         </div>
       </div>
     </div>
